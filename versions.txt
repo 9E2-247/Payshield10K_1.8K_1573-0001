@@ -1,0 +1,9 @@
+Base Release                         : 1.8a
+Revision                             : 1573-0001
+Firmware Version                     : 1.12.1
+Custom App Version                   : 1.0.1
+Deployment Version                   : 1.0.1-CA1573
+Bootstrap Version                    : 1.1.40
+Sensor Processor Application Version : 1.1.29
+Sensor Processor Boot Version        : <unidentified>
+CPLD Version                         : 1.2.3
